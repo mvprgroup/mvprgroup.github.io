@@ -1061,3 +1061,7 @@ pre {
     text-align: justify;
     font-size: 1.3rem;
 }
+
+.journal_name {
+  color: blue;
+}
